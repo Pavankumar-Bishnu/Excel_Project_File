@@ -30,9 +30,9 @@ This dataset ( Global Super Store Data ) includes sales transactions recorded be
 - Total Net Sales                    : 187,027,933.60
 - Total Profit                       : 25,437,030.60
 
-![Global Super Store Dashboard](https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/DSBD.png)
+![Global Super Store Dashboard](https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/ExDSBD.png)
 
-> **Interactivive Dashboard File**   : <a href="https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/Global%20Super%20Store.xlsx"> Click to open </a>
+> **Interactivive Dashboard File**   : <a href="https://github.com/Pavankumar-Bishnu/Excel_Project_File/blob/main/Global%20Super%20Store.xlsx"> Click to open </a>
 
 ## 🛠️ Tools & Technologies :
 - **Excel / CSV**
