@@ -12,7 +12,7 @@ Interactive Dashboard Creation - using EXCEL
    - Market and segment comparison
    - Pricing and discount strategy analysis
    - Time-series trend analysis
-> **Data Set Used**                  : <a href="https://github.com/Pavankumar-Bishnu/Excel-Project/blob/main/Global%20Super%20Store%20(%20CSV%20).csv"> Click to open </a>
+> **Data Set Used**                  : <a href="https://github.com/Pavankumar-Bishnu/Excel_Project_File/blob/main/Global%20Super%20Store.csv"> Click to open </a>
 
 ## Data Overviwe                     :
 This dataset ( Global Super Store Data ) includes sales transactions recorded between April **2018 and October 2020**. It captures details related to pricing, discounts, costs, and profitability across various market segments.
