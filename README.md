@@ -1,5 +1,5 @@
 # 🛒 SALES PERFORMANCE - DATA ANALYSIS ( 2018 TO 2020 )
-Interactive dashboard creation - using EXCEL
+Interactive Dashboard Creation - using EXCEL
 > **Purpose of the data set**       :
 - This is a sales and financial performance dataset containing transaction-level records.
 - It includes details on products, countries, customer segments, and discounts.
